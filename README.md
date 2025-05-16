@@ -1,7 +1,7 @@
 ## Olá, Como vai? Eu sou Eduardo Freitas 🖐️
 
-- 🔎 Atualmente buscando vaga como Desenvolvedor Back-end ou Ciber segurança
-- 💻 Atualmente estudando .NET, C#, Django, Python e Ciber segurança
+- 🔎 Atualmente buscando vaga de Estágio de TI
+- 💻 Atualmente estudando .NET, C#, Django, Python e Ciber segurança. Mas pretendo resolver problemas!!
 - 📧 Contate-me no email: eduardo.freitass464@gmail.com
 
 ##
