@@ -1,7 +1,7 @@
 ## Olá, Como vai? Eu sou Eduardo Freitas 🖐️
 
 - 🔎 Atualmente buscando vaga de Estágio de TI
-- 💻 Atualmente estudando .NET, C#, Django, Python e Ciber segurança. Mas pretendo resolver problemas!!
+- 💻 Atualmente estudando .NET, C#, Java e Ciber segurança. Mas pretendo resolver problemas!!
 - 📧 Contate-me no email: eduardo.freitass464@gmail.com
 
 ##
@@ -13,8 +13,6 @@ Aqui estão as Tecnologias que Estudo e pretendo Estudar.
 <div>
   <img align="center" alt="EduardoFreitas-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="EduardoFreitas-.NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
-  <img align="center" alt="Eduardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Eduardo-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
   <img align="center" alt="Eduardo-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
    <img align="center" alt="Eduardo-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/>
   <img align="center" alt="Eduardo-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"/>
