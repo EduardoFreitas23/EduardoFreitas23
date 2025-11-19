@@ -1,8 +1,8 @@
 ## Olá, Como vai? Eu sou Eduardo Freitas 🖐️
 
 - 🔎 Atualmente buscando vaga de Estágio de TI
-- 💻 Atualmente estudando .NET, C#, Java e Ciber segurança. Mas pretendo resolver problemas!!
-- 📧 Contate-me no email: eduardo.freitass464@gmail.com
+- 💻 Atualmente estudando .NET, C#, Java. Mas pretendo resolver problemas!!
+- 📧 Contate-me no email: edu.j.freitas11@gmail.com
 
 ##
 
