@@ -1,31 +1,124 @@
-## Olá, Como vai? Eu sou Eduardo Freitas 🖐️
+# 👨🏾‍💻 Eduardo Freitas
 
-- 🔎 Atualmente buscando vaga de Estágio de TI
-- 💻 Atualmente estudando .NET, C#, Java. Mas pretendo resolver problemas!!
-- 📧 Contate-me no email: edu.j.freitas11@gmail.com
+**`Estagiário TI`**
 
-##
+Meu nome é **Eduardo Jefferson Cardoso de Freitas**, tenho 19 anos e sou de **Curitiba – PR**.
+Atualmente curso **Sistemas de Informação na UNICSUL** e sou apaixonado por tecnologia — principalmente por programação.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoFreitas23&show_icons=true&theme=transparent)
+No meu dia a dia, estudo bastante sobre linguagens, conceitos e boas práticas, sempre buscando evoluir.
+Meu objetivo é seguir carreira como **Desenvolvedor** e continuar crescendo na área.
 
-Aqui estão as Tecnologias que Estudo e pretendo Estudar.
+### Contato & Redes
 
-<div>
-  <img align="center" alt="EduardoFreitas-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-  <img align="center" alt="EduardoFreitas-.NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
-  <img align="center" alt="Eduardo-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
-   <img align="center" alt="Eduardo-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/>
-  <img align="center" alt="Eduardo-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"/>
-  <img align="center" alt="Eduardo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"/> 
+<div align="left" style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/eduardo-freitas-/" target="_blank">
+    <img 
+      alt="LinkedIn" 
+      height="32"
+      style="border-radius: 8px;"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+
+  <a href="mailto:edu.j.freitas11@gmail.com" target="_blank">
+    <img 
+      alt="Gmail" 
+      height="32"
+      style="border-radius: 8px;"
+      src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+
+  <a href="https://instagram.com/duduufreitass_" target="_blank">
+    <img 
+      alt="Instagram" 
+      height="32"
+      style="border-radius: 8px;"
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    />
+  </a>
+
+  <a href="https://discord.com/users/ddudu6615" target="_blank">
+    <img 
+      alt="Discord" 
+      height="32"
+      style="border-radius: 8px;"
+      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+    />
+  </a>
 </div>
 
-##
+---
 
-<div>
-  <a href="mailto:eduardo.freitass464@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-freitas-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+### 💻 Linguagens e Tecnologias
 
-##
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="32px"
+    style="padding-right: 12px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+/>
+<img 
+    align="left"
+    alt="Spring Bot"
+    title="Spring Bot"
+    width="32px"
+    style="padding-right: 12px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img 
+    align="left"
+    alt="Csharp"
+    title="Csharp"
+    width="32px"
+    style="padding-right: 12px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/>
+<img 
+    align="left"
+    alt=".Net"
+    title=".Net"
+    width="32px"
+    style="padding-right: 12px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
+/>
+<img 
+    align="left"
+    alt="Git"
+    title="Git"
+    width="32px"
+    style="padding-right: 12px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img 
+    align="left"
+    alt="MySQL"
+    title="MySQL"
+    width="32px"
+    style="padding-right: 12px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
 
-Apaixonado por tecnologia, Sempre atento nos detalhes que fazem toda a diferença.
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 12px;"
+    src="https://github-readme-stats.vercel.app/api?username=EduardoFreitas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFreitas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p>
