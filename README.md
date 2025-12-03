@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Eduardo Freitas
 
-**`Estagiário TI`**
+##### **`Estagiário TI`**
 
 Meu nome é **Eduardo Jefferson Cardoso de Freitas**, tenho 19 anos e sou de **Curitiba – PR**.
 Atualmente curso **Sistemas de Informação na UNICSUL** e sou apaixonado por tecnologia — principalmente por programação.
