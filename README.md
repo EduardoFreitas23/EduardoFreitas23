@@ -112,13 +112,14 @@ Meu objetivo é seguir carreira como **Desenvolvedor** e continuar crescendo na 
     alt="GitHub Stats"
     height="200"
     style="padding-right: 12px;"
-    src="https://github-readme-stats.vercel.app/api?username=EduardoFreitas23&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=eduardofreitas23&show_icons=true&theme=tokyonight&locale=pt-br"
   />
+
 
   <img
     align="left"
     alt="Most Used Languages"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFreitas23&layout=compact&theme=tokyonight&custom_title=Most%20Used%20Languages&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofreitas23&layout=compact&theme=tokyonight&custom_title=Most%20Used%20Languages&langs_count=9"
   />
 </p>
