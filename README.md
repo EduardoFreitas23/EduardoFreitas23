@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Eduardo Freitas
 
-### **`Estagiário TI`**
+**`Estagiário TI`**
 
 Meu nome é **Eduardo Jefferson Cardoso de Freitas**, tenho 19 anos e sou de **Curitiba – PR**.
 Atualmente curso **Sistemas de Informação na UNICSUL** e sou apaixonado por tecnologia — principalmente por programação.
@@ -21,7 +21,7 @@ Meu objetivo é seguir carreira como **Desenvolvedor** e continuar crescendo na 
   </a>
 
   <a href="mailto:edu.j.freitas11@gmail.com" target="_blank">
-    <img 
+    <img r
       alt="Gmail" 
       height="32"
       style="border-radius: 8px;"
@@ -112,13 +112,13 @@ Meu objetivo é seguir carreira como **Desenvolvedor** e continuar crescendo na 
     alt="GitHub Stats"
     height="200"
     style="padding-right: 12px;"
-    src="https://github-readme-stats.vercel.app/api?username=EduardoFreitas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=EduardoFreitas23&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
   <img
     align="left"
-    alt="GitHub Stats"
+    alt="Most Used Languages"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFreitas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFreitas23&layout=compact&theme=tokyonight&custom_title=Most%20Used%20Languages&langs_count=9"
   />
 </p>
