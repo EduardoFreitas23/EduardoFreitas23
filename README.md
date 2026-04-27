@@ -2,7 +2,7 @@
 
 **`Back-end & AI Developer | Estagiário TI`**
 
-Desenvolvedor **back-end** com foco em **IA aplicada** — integro modelos **OpenAI/GPT** em fluxos corporativos, desenvolvo **Chatbots** e automatizo processos e integro via **APIs REST**.
+Desenvolvedor **back-end** especializado em **Agentes de IA** e **Chatbots** — integro modelos **OpenAI/GPT** em fluxos corporativos e automatizo processos, via **APIs REST**.
 
 Desenvolvimento back-end com **Python**, **C#** e **Java** — frameworks: **FastAPI**, **Flask**, **Django** e **.NET**.
 
