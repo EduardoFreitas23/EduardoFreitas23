@@ -2,16 +2,15 @@
 
 **`Back-end & AI Developer | Estagiário TI`**
 
-Sou **Eduardo Jefferson Cardoso de Freitas**, 19 anos, de **Curitiba – PR**.
-Curso **Sistemas de Informação na UNICSUL** e atuo como estagiário de TI,
-com foco em desenvolvimento back-end e integração de sistemas.
+Desenvolvedor **back-end** com foco em **IA aplicada** — integro modelos **OpenAI/GPT** em fluxos corporativos, desenvolvo **Chatbots** e automatizo processos e integro via **APIs REST**.
 
-Na prática, trabalho com desenvolvimento de **Chatbots com OpenAI/GPT**,
-integração e validação de **APIs REST**, desenvolvimento back-end com
-**Python e C#**, modelagem em **SQL** e controle de versão com **Git**.
+Desenvolvimento back-end com **Python**, **C#** e **Java** — frameworks: **FastAPI**, **Flask**, **Django** e **.NET**.
 
-Meu objetivo é crescer como **Desenvolvedor Júnior**, contribuindo em
-projetos reais e evoluindo continuamente nas tecnologias que mais importam.
+Banco de dados **MySQL**, **PostgreSQL** e **SQLite**.
+
+Trabalho com IA no dia a dia — não como experimento, **como solução**.
+
+> Foco em me tornar um desenvolvedor back-end sólido — que entrega, aprende e evolui continuamente.
 
 ### Contato & Redes
 
