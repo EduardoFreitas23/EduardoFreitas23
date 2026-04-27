@@ -126,7 +126,7 @@ Trabalho com IA no dia a dia — não como experimento, **como solução**.
     title="SQLServer"
     width="40px"
     style="padding-right: 14px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
 />
 <img 
     align="left"
@@ -134,7 +134,7 @@ Trabalho com IA no dia a dia — não como experimento, **como solução**.
     title="PostgreSQL"
     width="40px"
     style="padding-right: 14px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"
 />
 <img 
     align="left"
@@ -142,7 +142,7 @@ Trabalho com IA no dia a dia — não como experimento, **como solução**.
     title="Git"
     width="40px"
     style="padding-right: 14px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"
 />
 <img 
     align="left"
@@ -150,8 +150,9 @@ Trabalho com IA no dia a dia — não como experimento, **como solução**.
     title="GitLab"
     width="40px"
     style="padding-right: 14px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg"
 />
+<!--
 <img 
     align="left"
     alt="GitHub"
@@ -160,6 +161,7 @@ Trabalho com IA no dia a dia — não como experimento, **como solução**.
     style="padding-right: 14px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
 />
+-->
 <img 
     align="left"
     alt="Postman"
@@ -180,13 +182,13 @@ Trabalho com IA no dia a dia — não como experimento, **como solução**.
     alt="GitHub Stats"
     height="200"
     style="padding-right: 15px;"
-    src="https://github-readme-stats.vercel.app/api?username=eduardofreitas23&show_icons=true&theme=github_dark&locale=pt-br&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=eduardofreitas23&show_icons=true&theme=github_dark&locale=pt-br&count_private=true&cache_seconds=0"
   />
   <img
     align="left"
     alt="Most Used Languages"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofreitas23&layout=compact&theme=github_dark&custom_title=Most%20Used%20Languages&langs_count=9&count_private=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofreitas23&layout=compact&theme=github_dark&custom_title=Most%20Used%20Languages&langs_count=9&count_private=true&cache_seconds=0"
   />
 </p>
 
