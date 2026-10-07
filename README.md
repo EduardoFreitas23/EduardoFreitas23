@@ -12,7 +12,7 @@ Trabalho com IA no dia a dia — não como experimento, **como solução**.
 
 ### 🎯 Áreas de atuação
 
-`IA Generativa` `Chatbots` `LLMs` `Automação de Processos` `Integração de Sistemas` `APIs REST` `Plataforma de Gestão de Projetos` `Back-end` `Banco de Dados` `Governança de TI` `Gestão Técnica com Fornecedores`
+`IA Generativa` `Chatbots` `LLMs` `Automação de Processos` `Integração de Sistemas` `APIs REST` `Back-end` `Banco de Dados` `Governança de TI` `Produtos e Projetos Digitais`
 
 > Foco em me tornar um desenvolvedor sólido — que entrega, aprende e evolui continuamente.
 
