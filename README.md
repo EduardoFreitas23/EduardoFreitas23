@@ -1,16 +1,20 @@
 # Eduardo Freitas
 
-**`Back-end & AI Developer | Estagiário TI`**
+**`Back-end & AI Developer`**
 
-Desenvolvedor **back-end** especializado em **Agentes de IA** e **Chatbots** — integro modelos **OpenAI/GPT** em fluxos corporativos e automatizo processos, via **APIs REST**.
+Desenvolvedor **Back-end** especializado em **Agentes de IA** e **Chatbots** — integro modelos **OpenAI/GPT** em fluxos corporativos e automatizo processos via **APIs REST**.
 
-Desenvolvimento back-end com **Python**, **C#** e **Java** — frameworks: **FastAPI**, **Flask**, **Django** e **.NET**.
+Desenvolvimento back-end com **Python**, **C#** e **Java** — frameworks: **FastAPI** e **.NET**.
 
 Banco de dados **MySQL**, **PostgreSQL** e **SQLite**.
 
 Trabalho com IA no dia a dia — não como experimento, **como solução**.
 
-> Foco em me tornar um desenvolvedor back-end sólido — que entrega, aprende e evolui continuamente.
+### 🎯 Áreas de atuação
+
+`IA Generativa` `Chatbots` `LLMs` `Automação de Processos` `Integração de Sistemas` `APIs REST` `Plataforma de Gestão de Projetos` `Back-end` `Banco de Dados` `Governança de TI` `Gestão Técnica com Fornecedores`
+
+> Foco em me tornar um desenvolvedor sólido — que entrega, aprende e evolui continuamente.
 
 ### Contato & Redes
 
@@ -55,7 +59,6 @@ Trabalho com IA no dia a dia — não como experimento, **como solução**.
 ---
 
 ### 💻 Linguagens e Tecnologias
-
 <img
     align="left"
     alt="Java"
@@ -72,7 +75,7 @@ Trabalho com IA no dia a dia — não como experimento, **como solução**.
     style="padding-right: 14px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
 />
-<img 
+<img
     align="left"
     alt="Python"
     title="Python"
@@ -82,20 +85,13 @@ Trabalho com IA no dia a dia — não como experimento, **como solução**.
 />
 <img 
     align="left"
-    alt="Selenium"
-    title="Selenium"
+    alt="FastAPI"
+    title="FastAPI"
     width="40px"
     style="padding-right: 14px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
 />
-<img 
-    align="left"
-    alt="Django"
-    title="Django"
-    width="40px"
-    style="padding-right: 14px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"
-/>
+
 <img 
     align="left"
     alt="Csharp"
@@ -122,19 +118,19 @@ Trabalho com IA no dia a dia — não como experimento, **como solução**.
 />
 <img 
     align="left"
-    alt="SQLServer"
-    title="SQLServer"
-    width="40px"
-    style="padding-right: 14px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
-/>
-<img 
-    align="left"
     alt="PostgreSQL"
     title="PostgreSQL"
     width="40px"
     style="padding-right: 14px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"
+/>
+<img 
+    align="left"
+    alt="SQLite"
+    title="SQLite"
+    width="40px"
+    style="padding-right: 14px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
 />
 <img 
     align="left"
@@ -152,16 +148,6 @@ Trabalho com IA no dia a dia — não como experimento, **como solução**.
     style="padding-right: 14px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg"
 />
-<!--
-<img 
-    align="left"
-    alt="GitHub"
-    title="GitHub"
-    width="40px"
-    style="padding-right: 14px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
-/>
--->
 <img 
     align="left"
     alt="Postman"
@@ -172,7 +158,7 @@ Trabalho com IA no dia a dia — não como experimento, **como solução**.
 />
 
 <br/>
-<br/>
+<br clear="both">
 
 ### 📊 Estatísticas
 
@@ -192,12 +178,15 @@ Trabalho com IA no dia a dia — não como experimento, **como solução**.
   />
 </p>
 
-<!--
+<br clear="both">
+
 <p>
   <img
+    align="left"
     alt="GitHub Streak"
     height="200"
-    src="https://streak-stats.demolab.com?user=eduardofreitas23&theme=radical&locale=pt_BR&date_format=j%20M%5B%20Y%5D"
+    src="https://streak-stats.demolab.com/?user=eduardofreitas23&theme=github-dark-blue&locale=pt-br&hide_border=true&date_format=d%2F%5Bm%5D&cache_seconds=0"
   />
 </p>
--->
+
+<br clear="both">
